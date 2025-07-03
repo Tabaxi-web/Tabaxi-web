@@ -1,5 +1,5 @@
 - Hi, I’m Tau! (@Tabaxi-web)
-- I'm just a guy trying to be a unity gamedev
-- I'm learning unity c#
-- I know a bit of c#, python and LUA
+- I'm just a guy trying to be a gamedev and musician
+- I'm learning LUAU
+- I know c#, python and LUA
 - Byeeeee
